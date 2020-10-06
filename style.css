@@ -25,6 +25,7 @@ header, body, footer {
 /* HEADER FORMATING  */
 
 header {
+    height: auto;
     color: #e9ecef;
     padding: 40px; 
     margin: 30px;
