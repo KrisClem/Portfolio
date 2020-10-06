@@ -62,9 +62,8 @@ article {
     padding: 0 70px 0
 }
 
-main > h2 {
+article > h2 {
     text-align: left;
-    padding: 0 0 0 70px;
     margin: 0;
     font-size: 20px;
 }
