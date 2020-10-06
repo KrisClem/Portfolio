@@ -66,6 +66,7 @@ main > h2 {
     text-align: left;
     padding: 0 0 0 70px;
     margin: 0;
+    text-size: 20px;
 }
 
 main > p {
@@ -103,3 +104,21 @@ footer > ol {
     text-align: left;
     padding: 0 14px 0;
 }
+
+
+/* Links */
+
+a:link    { color: #e9ecef; 
+    text-decoration: none;
+}
+a:visited { color: #adb5bd; 
+    text-decoration: none;
+}
+a:hover   { color: #f8f9fa;
+    text-decoration: none;
+}
+a:active  { color: #212529;
+    text-decoration: none;
+}
+
+
